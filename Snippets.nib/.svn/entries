@@ -1,0 +1,53 @@
+8
+
+dir
+2
+https://fromconcentratesoftware.googlecode.com/svn/trunk/CodeSnippets/Snippets.nib
+https://fromconcentratesoftware.googlecode.com/svn
+
+
+
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+
+svn:special svn:externals svn:needs-lock
+
+info.nib
+file
+
+
+
+
+2006-08-14T19:47:51.000000Z
+b469eeb4dc853776fd7deea78910d83b
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+keyedobjects.nib
+file
+
+
+
+
+2006-08-14T19:47:51.000000Z
+ffb77c5521f93ad37f4d61b98007ad9b
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+has-props
+
+classes.nib
+file
+
+
+
+
+2006-08-14T19:47:51.000000Z
+a0c141ed8920b5931e41f2375d93c423
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+

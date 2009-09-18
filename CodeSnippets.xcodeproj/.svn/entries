@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://fromconcentratesoftware.googlecode.com/svn/trunk/CodeSnippets/CodeSnippets.xcodeproj
+https://fromconcentratesoftware.googlecode.com/svn
+
+
+
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+
+svn:special svn:externals svn:needs-lock
+
+project.pbxproj
+file
+6
+
+
+
+2007-06-05T20:28:54.000000Z
+33a41cb2db247ee69cfbe2f8741dcbc5
+2007-08-21T19:22:10.096473Z
+6
+grayson.hansard
+
+ghansard.mode1
+file
+6
+
+
+
+2007-06-05T20:33:07.000000Z
+b7235485464d9f2eaf9f93fb7c6b1dc2
+2007-08-21T19:22:10.096473Z
+6
+grayson.hansard
+

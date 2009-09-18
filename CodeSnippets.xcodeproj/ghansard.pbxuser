@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D5B49AC048680CD000E48DA /* CodeSnippets */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* CodeSnippets */,
+		);
+		codeSenseManager = 1DC465EF0A90DE8D003F0744 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					133,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274997965;
+			PBXWorkspaceStateSaveDate = 274997965;
+		};
+		sourceControlManager = 1DC465EE0A90DE8D003F0744 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1DC465EE0A90DE8D003F0744 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	1DC465EF0A90DE8D003F0744 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1DC465F40A90DF1F003F0744 /* SnippetController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 574}}";
+			sepNavSelRange = "{809, 32}";
+			sepNavVisRect = "{{0, 51}, {747, 510}}";
+			sepNavWindowFrame = "{{206, 146}, {792, 624}}";
+		};
+	};
+	1DC465F50A90DF1F003F0744 /* SnippetController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 3528}}";
+			sepNavSelRange = "{8624, 0}";
+			sepNavVisRange = "{6713, 483}";
+			sepNavVisRect = "{{0, 163}, {747, 510}}";
+			sepNavWindowFrame = "{{298, 156}, {792, 624}}";
+		};
+	};
+	1DC466BD0A90F32A003F0744 /* SEDataSource-SETableDataSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 510}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{15, 249}, {792, 624}}";
+		};
+	};
+	1DC466BE0A90F32A003F0744 /* SEDataSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1148}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 357}, {747, 510}}";
+			sepNavWindowFrame = "{{38, 228}, {792, 624}}";
+		};
+	};
+	1DC466C00A90F32A003F0744 /* SEDocument-Actions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 490}}";
+			sepNavSelRange = "{314, 7}";
+			sepNavVisRect = "{{0, 28}, {734, 195}}";
+		};
+	};
+	1DC466C60A90F32A003F0744 /* SEDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1750}}";
+			sepNavSelRange = "{154, 0}";
+			sepNavVisRect = "{{0, 1240}, {747, 510}}";
+			sepNavWindowFrame = "{{76, 228}, {792, 624}}";
+		};
+	};
+	1DC466C70A90F32A003F0744 /* SEDocumentController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 510}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{176, 102}, {792, 624}}";
+		};
+	};
+	1DC466DF0A90F32A003F0744 /* SEPlugInPreferences.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 510}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{61, 207}, {792, 624}}";
+		};
+	};
+	1DC466E20A90F32A003F0744 /* SEPreferences.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 518}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{84, 186}, {792, 624}}";
+		};
+	};
+	1DC466E80A90F32A003F0744 /* SEScriptController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 392}}";
+			sepNavSelRange = "{338, 7}";
+			sepNavVisRect = "{{0, 169}, {734, 195}}";
+			sepNavWindowFrame = "{{107, 165}, {792, 624}}";
+		};
+	};
+	1DC466E90A90F32A003F0744 /* SEScriptTextStorage-SETextStorageScripting.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 510}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{130, 144}, {792, 624}}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* CodeSnippets */ = {
+		activeExec = 0;
+	};
+	8D5B49B7048680CD000E48DA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 510}}";
+			sepNavSelRange = "{826, 0}";
+			sepNavVisRect = "{{0, 0}, {747, 510}}";
+			sepNavWindowFrame = "{{199, 81}, {792, 624}}";
+		};
+	};
+}

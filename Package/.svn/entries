@@ -1,0 +1,81 @@
+8
+
+dir
+2
+https://fromconcentratesoftware.googlecode.com/svn/trunk/CodeSnippets/Package
+https://fromconcentratesoftware.googlecode.com/svn
+
+
+
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+
+svn:special svn:externals svn:needs-lock
+
+Code Snippets Installer.pmproj
+file
+
+
+
+
+2006-08-14T21:14:04.000000Z
+bccc9b5db9b46b6fcce7521648446ca9
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+has-props
+
+preflight
+file
+
+
+
+
+2006-08-14T21:00:43.000000Z
+33d8092caf3808b53117af27818d3d05
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+has-props
+
+ReadMe.rtf
+file
+
+
+
+
+2006-08-14T20:43:59.000000Z
+7adc46895600f5bd03b4f2f172f80872
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+Introduction.rtf
+file
+
+
+
+
+2006-08-14T20:10:46.000000Z
+721b3215d2fd628b32ca15186330f47d
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+License.rtf
+file
+
+
+
+
+2006-08-14T20:22:07.000000Z
+188eb97dcf024077f769fea005afbeda
+2007-05-27T22:07:54.459643Z
+2
+grayson.hansard
+
+Code Snippets Installer.pkg
+dir
+

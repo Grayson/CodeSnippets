@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ ! -d /Library/Application\ Support/Apple/Script\ Editor ]; then
+	mkdir /Library/Application\ Support/Apple/Script\ Editor
+fi

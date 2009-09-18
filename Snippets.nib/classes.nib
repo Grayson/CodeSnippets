@@ -1,0 +1,16 @@
+{
+    IBClasses = (
+        {
+            CLASS = FCSSnippetController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                SnippetsArrayController = NSArrayController; 
+                tableView = NSTableView; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
